@@ -1,0 +1,497 @@
+Date: Sat, 26 Jul 2025 22:29:54 +0000 (UTC)
+Message-ID: <42595336.39.1753568994218@87c11ae361e8>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_38_1631494018.1753568994218"
+
+------=_Part_38_1631494018.1753568994218
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>PizzaIA</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>PizzaIA</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"PizzaIA-Descripci=C3=B3n">Descripci=C3=B3n</h2>
+<div class=3D"panel" style=3D"background-color: #F4F5F7;border-width: 1px;"=
+>
+<div class=3D"panelContent" style=3D"background-color: #F4F5F7;">
+<p>Describe el objetivo de este espacio en una o dos frases.</p>
+</div>
+</div>
+<h2 id=3D"PizzaIA-Seguimientodelproyecto">Seguimiento del proyecto</h2>
+<p>Project linker extension</p>
+<h2 id=3D"PizzaIA-Contenidoactualizadorecientemente">Contenido actualizado =
+recientemente</h2>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p>La siguiente lista se actualizar=C3=A1 autom=C3=A1ticamente cada vez que=
+ alguien en tu espacio cree o actualice contenido.</p>
+</div>
+</div>
+<div class=3D"recently-updated recently-updated-concise">
+<div class=3D"hidden parameters">
+<input type=3D"hidden" id=3D"changesUrl" value=3D"/wiki/plugins/recently-up=
+dated/changes.action?theme=3Dconcise&amp;pageSize=3D10&amp;spaceKeys=3DPizz=
+aIA&amp;contentType=3Dpage,whiteboard,database,blog">
+</div>
+<div class=3D"results-container">
+<ul>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+422535/Supervisi+n+y+Rendici+n+de+Cuentas+ticas" title=3D"PizzaIA" data-lin=
+ked-resource-id=3D"null" data-linked-resource-version=3D"null" data-linked-=
+resource-type=3D"page">Supervisi=C3=B3n y Rendici=C3=B3n de Cuentas =C3=89t=
+icas</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+553603/Cl+usulas+ticas+para+Pol+ticas+de+Privacidad+y+T+rminos+Condiciones"=
+ title=3D"PizzaIA" data-linked-resource-id=3D"null" data-linked-resource-ve=
+rsion=3D"null" data-linked-resource-type=3D"page">Cl=C3=A1usulas =C3=89tica=
+s para Pol=C3=ADticas de Privacidad y T=C3=A9rminos &amp; Condiciones</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+488067/Componente+4+Mecanismos+de+rectificaci+n+ante+decisiones+automatizad=
+as" title=3D"PizzaIA" data-linked-resource-id=3D"null" data-linked-resource=
+-version=3D"null" data-linked-resource-type=3D"page">Componente 4: Mecanism=
+os de rectificaci=C3=B3n ante decisiones automatizadas</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+389770/Componente+3+Trazabilidad+y+control+algor+tmico+en+tiempo+real" titl=
+e=3D"PizzaIA" data-linked-resource-id=3D"null" data-linked-resource-version=
+=3D"null" data-linked-resource-type=3D"page">Componente 3: Trazabilidad y c=
+ontrol algor=C3=ADtmico en tiempo real</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+094899/Componente+2+Evaluaci+n+de+impacto+tico+en+el+pipeline+de+IA" title=
+=3D"PizzaIA" data-linked-resource-id=3D"null" data-linked-resource-version=
+=3D"null" data-linked-resource-type=3D"page">Componente 2: Evaluaci=C3=B3n =
+de impacto =C3=A9tico en el pipeline de IA</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+127672/Componente+1+Principios+ticos+Rectores+de+PizzaIA" title=3D"PizzaIA"=
+ data-linked-resource-id=3D"null" data-linked-resource-version=3D"null" dat=
+a-linked-resource-type=3D"page">Componente 1: Principios =C3=89ticos Rector=
+es de PizzaIA</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+094850/Gobernanza+de+IA+en+tica+en+IA+para+Gesti+n+de+Proyectos" title=3D"P=
+izzaIA" data-linked-resource-id=3D"null" data-linked-resource-version=3D"nu=
+ll" data-linked-resource-type=3D"page">Gobernanza de IA en '=C3=89tica en I=
+A para Gesti=C3=B3n de Proyectos'</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+258748/Dilema+tico+7+Falta+de+explicabilidad+en+las+decisiones+de+IA" title=
+=3D"PizzaIA" data-linked-resource-id=3D"null" data-linked-resource-version=
+=3D"null" data-linked-resource-type=3D"page">Dilema =C3=89tico 7: Falta de =
+explicabilidad en las decisiones de IA</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+258739/Dilema+tico+6+Sesgos+en+los+datos+de+entrenamiento" title=3D"PizzaIA=
+" data-linked-resource-id=3D"null" data-linked-resource-version=3D"null" da=
+ta-linked-resource-type=3D"page">Dilema =C3=89tico 6: Sesgos en los datos d=
+e entrenamiento</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+<li class=3D"update-item">
+<div class=3D"update-item-icon">
+<span class=3D"icon content-type-page"></span>
+</div>
+<div class=3D"update-item-content">
+<a href=3D"https://xpichinix.atlassian.net/wiki/wiki/spaces/PizzaIA/pages/6=
+094885/Dilema+tico+5+Automatizaci+n+de+decisiones+sin+intervenci+n+humana" =
+title=3D"PizzaIA" data-linked-resource-id=3D"null" data-linked-resource-ver=
+sion=3D"null" data-linked-resource-type=3D"page">Dilema =C3=89tico 5: Autom=
+atizaci=C3=B3n de decisiones sin intervenci=C3=B3n humana</a>
+<div class=3D"update-item-meta">
+jul 17, 2025<span class=3D"separator"> =E2=80=A2 </span>aportado por <a cla=
+ss=3D"confluence-userlink url fn" data-account-id=3D"712020:4a2c9582-b518-4=
+eb3-b384-81e154fc7a6c" href=3D"https://xpichinix.atlassian.net/wiki/wiki/di=
+splay/~712020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c">Luis Pizzanni</a>
+</div>
+</div></li>
+</ul>
+<div class=3D"more-link-container">
+<a class=3D"more-link" href=3D"https://xpichinix.atlassian.net/wiki/wiki/pl=
+ugins/recently-updated/changes.action?theme=3Dconcise&amp;pageSize=3D10&amp=
+;startIndex=3D10&amp;searchToken=3D1&amp;spaceKeys=3DPizzaIA&amp;contentTyp=
+e=3Dpage,whiteboard,database,blog&amp;cursor=3D_f_MTA%3D_sa_WzE3NTI3Njk3MDU=
+wMDAsIlx0NjA5NDg4NSBNSUd0MkJ0ZDxTVWxHSjFfLTkxUyBjcCJd">Mostrar m=C3=A1s</a>=
+ <img class=3D"waiting-image" alt=3D"Espera un momento" src=3D"2fe89b86ea7a=
+1e7a66b386a288413b9e4a5a440c06312b5a62f6d49d415ea867" width=3D"16" height=
+=3D"16">
+</div>
+</div>
+</div>
+<h2 id=3D"PizzaIA-Colaboradores">Colaboradores</h2>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p>La siguiente lista se actualizar=C3=A1 autom=C3=A1ticamente cada vez que=
+ alguien en tu espacio cree o actualice contenido.</p>
+</div>
+</div>
+<div class=3D"plugin-contributors">
+<div class=3D"plugin-contributors">
+<span><span><a href=3D"https://xpichinix.atlassian.net/wiki/wiki/display/~7=
+12020%3A4a2c9582-b518-4eb3-b384-81e154fc7a6c" class=3D"url fn">Luis Pizzann=
+i</a></span></span>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_38_1631494018.1753568994218
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/2fe89b86ea7a1e7a66b386a288413b9e4a5a440c06312b5a62f6d49d415ea867
+
+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
+fySDhGYQdDWGQyUhADs=
+------=_Part_38_1631494018.1753568994218--
