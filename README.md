@@ -24,7 +24,7 @@
 
 ## 🖼️ Captura del Proyecto
 
-![Vista previa de PizzaIA](./src/assets/pizzaia.jpg)
+![Vista previa de PizzaIA](./src/assets/pizzaia.png)
 
 ---
 
