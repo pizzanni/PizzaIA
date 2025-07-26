@@ -20,18 +20,12 @@
 - **Documentación**: Confluence
 - **Control de versiones**: Git & GitHub
 
----
-
-## 🖼️ Captura del Proyecto
-
-![Vista previa de PizzaIA](./src/assets/pizzaia.png)
 
 ---
 
 ## 📂 Estructura del Proyecto
 
 PizzaIA/
-│
 ├── public/ # Archivos estáticos
 ├── src/
 │ ├── assets/ # Imágenes y recursos gráficos
@@ -47,7 +41,7 @@ PizzaIA/
 ## 👨‍💻 Autor
 
 **Luis Pizzanni**  
-[LinkedIn](https://www.linkedin.com) · [GitHub](https://github.com)
+[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/luis-pizzanni-b9a93a283/)) · [GitHub](https://github.com/pizzanni)
 
 ---
 
