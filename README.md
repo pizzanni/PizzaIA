@@ -22,12 +22,6 @@
 
 ---
 
-## 🖼️ Captura del Proyecto
-
-![Vista previa de PizzaIA](./src/assets/pizzaia.png)
-
----
-
 ## 📂 Estructura del Proyecto
 
 PizzaIA/
