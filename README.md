@@ -20,6 +20,11 @@
 - **Documentación**: Confluence
 - **Control de versiones**: Git & GitHub
 
+---
+
+## 🖼️ Captura del Proyecto
+
+![Vista previa de PizzaIA](./src/assets/pizzaia.jpg)
 
 ---
 
