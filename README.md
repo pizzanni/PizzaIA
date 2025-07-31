@@ -22,21 +22,6 @@
 
 ---
 
-## ⚙️ Instalación y ejecución
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/pizzanni/PizzaIA.git
-cd PizzaIA
-
-# Instalar dependencias
-npm install
-
-# Ejecutar en modo desarrollo
-npm run dev
-
----
-
 ## 🧪 Pruebas de Calidad
 El proyecto incluye pruebas organizadas en los siguientes módulos:
 
@@ -96,3 +81,17 @@ PizzaIA/
 
 Este proyecto está licenciado bajo la **MIT License**.  
 Consulta el archivo `LICENSE` para más detalles.
+
+## ⚙️ Instalación y ejecución
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/pizzanni/PizzaIA.git
+cd PizzaIA
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en modo desarrollo
+npm run dev
+---
