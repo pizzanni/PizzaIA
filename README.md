@@ -75,7 +75,7 @@ PizzaIA/
 ## 👨‍💻 Autor
 
 **Luis Pizzanni**  
-[LinkedIn](https://www.linkedin.com/in/luis-pizzanni-b9a93a283/) · [GitHub](https://github.com/pizzanni) · [Instagram]([https://github.com/pizzanni])(https://www.instagram.com/soylapizza._/?utm_source=qr)) 
+[LinkedIn](https://www.linkedin.com/in/luis-pizzanni-b9a93a283/) · [GitHub](https://github.com/pizzanni) · [Instagram](https://github.com/pizzanni)(https://www.instagram.com/soylapizza._/?utm_source=qr)) 
 
 ---
 
