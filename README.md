@@ -22,6 +22,54 @@
 
 ---
 
+## ⚙️ Instalación y ejecución
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/pizzanni/PizzaIA.git
+cd PizzaIA
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en modo desarrollo
+npm run dev
+
+---
+
+## 🧪 Pruebas de Calidad
+El proyecto incluye pruebas organizadas en los siguientes módulos:
+
+- ✅Pruebas - Módulo de Autenticación
+
+- ✅Pruebas - Módulo de Registro
+
+- ✅Pruebas - Módulo de Predicción de Impedimentos
+
+- ✅Pruebas - Módulo de Visualización de Métricas del Sprint
+
+- ✅Pruebas - Módulo de Notificaciones Inteligentes
+
+- ✅Pruebas - Módulo de Gestión de Impedimentos
+
+- ✅Pruebas - Módulo de Integración con Jira
+
+---
+
+## 📚 Documentación
+Toda la documentación funcional, técnica y ética se encuentra en Confluence:
+🔗 Documentación de PizzaIA en Confluence
+
+Incluye:
+
+- Marco de Gobernanza Ética de IA
+
+- Subpáginas de QA por módulo
+
+- Políticas de privacidad y transparencia
+
+---
+
 ## 📂 Estructura del Proyecto
 
 PizzaIA/
@@ -48,6 +96,3 @@ PizzaIA/
 
 Este proyecto está licenciado bajo la **MIT License**.  
 Consulta el archivo `LICENSE` para más detalles.
-
----
-
