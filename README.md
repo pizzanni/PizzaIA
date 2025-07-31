@@ -75,7 +75,7 @@ PizzaIA/
 ## 👨‍💻 Autor
 
 **Luis Pizzanni**  
-[LinkedIn]([(https://www.linkedin.com/in/luis-pizzanni-b9a93a283/)]) · [GitHub](https://github.com/pizzanni)
+[LinkedIn](https://www.linkedin.com/in/luis-pizzanni-b9a93a283/) · [GitHub](https://github.com/pizzanni)
 
 ---
 
