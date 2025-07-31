@@ -59,6 +59,7 @@ Incluye:
 
 ## 📂 Estructura del Proyecto
 
+
 PizzaIA/
 ├── public/ # Archivos estáticos
 ├── src/
