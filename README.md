@@ -44,8 +44,7 @@ El proyecto incluye pruebas organizadas en los siguientes módulos:
 ## 📚 Documentación
 Toda la documentación funcional, técnica y ética se encuentra en Confluence:
 
-🔗 Documentación de PizzaIA en Confluence
-[Confluence](https://xpichinix.atlassian.net/wiki/spaces/PizzaIA/pages/688160/1.+Visi+n+General+del+Proyecto)
+🔗 [Documentación de PizzaIA en Confluence](https://xpichinix.atlassian.net/wiki/spaces/PizzaIA/pages/688160/1.+Visi+n+General+del+Proyecto)
 
 Incluye:
 
