@@ -1,6 +1,6 @@
-# 🍕 PizzaIA - Proyecto de IA para Gestión Ágil de Pizzerías
+# 🍕 PizzaIA - Proyecto de IA para Gestión Ágil 
 
-**PizzaIA** es una solución inteligente diseñada para mejorar la gestión de proyectos en entornos de desarrollo ágil, enfocada en el sector de pizzerías. Este proyecto combina principios de metodologías ágiles con herramientas de inteligencia artificial para anticipar impedimentos, optimizar el flujo de trabajo y elevar la calidad del producto final.
+**PizzaIA** es una solución inteligente diseñada para mejorar la gestión de proyectos en entornos de desarrollo ágil. Este proyecto combina principios de metodologías ágiles con herramientas de inteligencia artificial para anticipar impedimentos, optimizar el flujo de trabajo y elevar la calidad del producto final.
 
 ---
 
