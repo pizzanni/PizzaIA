@@ -41,9 +41,14 @@ El proyecto incluye pruebas organizadas en los siguientes módulos:
 
 ---
 
-🌐 Demo
+## 🌐 Demo
 Puedes visitar la landing page aquí:
 🔗 [Demo](https://pizzaia-landing.vercel.app/)
+
+---
+
+## 📸 Captura de Proyecto 
+<img width="1831" height="867" alt="PizzaIA Captura" src="https://github.com/user-attachments/assets/97a70744-2377-4003-a1d1-e54a769397c6" />
 
 ---
 
