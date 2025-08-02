@@ -41,6 +41,12 @@ El proyecto incluye pruebas organizadas en los siguientes módulos:
 
 ---
 
+🌐 Demo
+Puedes visitar la landing page aquí:
+🔗 [Demo](https://pizzaia-landing.vercel.app/)
+
+---
+
 ## 📚 Documentación
 Toda la documentación funcional, técnica y ética se encuentra en Confluence:
 
